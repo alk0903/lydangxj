@@ -10,7 +10,7 @@ edition.workspace = true
 slog = { workspace = true, features = ["nested-values"] }
 serde.workspace = true
 serde_json.workspace = true
-libsystemd = "0.6"
+libsystemd = "0.7"
 itoa.workspace = true
 ryu.workspace = true
 flume.workspace = true
